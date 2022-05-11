@@ -24,5 +24,15 @@ body{
 
   h1{
       text-align: center;
-      color: rgb(230, 16, 140);
+      color: #ae00ff;
+      font-family:'Averia Sans Libre', cursive;
+      font-size: 80px;
   }
+  
+  h2{
+    text-align: center;
+    color: #ae00ff;
+    font-size: 50px;
+    font-family: 'Tourney', cursive;
+  }
+                                
